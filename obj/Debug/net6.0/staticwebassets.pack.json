@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Projects\\abp\\Vib.Oss\\Pages\\Index.cshtml.js",
+      "PackagePath": "staticwebassets\\Pages\\Index.cshtml.js"
+    },
+    {
+      "Id": "C:\\Projects\\abp\\Vib.Oss\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Vib.Oss.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Vib.Oss.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Projects\\abp\\Vib.Oss\\wwwroot\\global-styles.css",
+      "PackagePath": "staticwebassets\\global-styles.css"
+    },
+    {
+      "Id": "C:\\Projects\\abp\\Vib.Oss\\wwwroot\\images\\logo\\leptonx\\logo-dark-thumbnail.png",
+      "PackagePath": "staticwebassets\\images\\logo\\leptonx\\logo-dark-thumbnail.png"
+    },
+    {
+      "Id": "C:\\Projects\\abp\\Vib.Oss\\wwwroot\\images\\logo\\leptonx\\logo-dark.png",
+      "PackagePath": "staticwebassets\\images\\logo\\leptonx\\logo-dark.png"
+    },
+    {
+      "Id": "C:\\Projects\\abp\\Vib.Oss\\wwwroot\\images\\logo\\leptonx\\logo-light-thumbnail.png",
+      "PackagePath": "staticwebassets\\images\\logo\\leptonx\\logo-light-thumbnail.png"
+    },
+    {
+      "Id": "C:\\Projects\\abp\\Vib.Oss\\wwwroot\\images\\logo\\leptonx\\logo-light.png",
+      "PackagePath": "staticwebassets\\images\\logo\\leptonx\\logo-light.png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Vib.Oss.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Vib.Oss.props",
+      "PackagePath": "build\\Vib.Oss.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Vib.Oss.props",
+      "PackagePath": "buildMultiTargeting\\Vib.Oss.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Vib.Oss.props",
+      "PackagePath": "buildTransitive\\Vib.Oss.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
