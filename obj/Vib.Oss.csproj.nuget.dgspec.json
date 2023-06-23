@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\abp\\Vib.Oss\\Vib.Oss.csproj": {}
+    "C:\\Projects\\abp\\Vib.Oss\\OSS\\Vib.Oss.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\abp\\Vib.Oss\\Vib.Oss.csproj": {
+    "C:\\Projects\\abp\\Vib.Oss\\OSS\\Vib.Oss.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\abp\\Vib.Oss\\Vib.Oss.csproj",
+        "projectUniqueName": "C:\\Projects\\abp\\Vib.Oss\\OSS\\Vib.Oss.csproj",
         "projectName": "Vib.Oss",
-        "projectPath": "C:\\Projects\\abp\\Vib.Oss\\Vib.Oss.csproj",
+        "projectPath": "C:\\Projects\\abp\\Vib.Oss\\OSS\\Vib.Oss.csproj",
         "packagesPath": "C:\\Users\\TINLAPTOP\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\abp\\Vib.Oss\\obj\\",
+        "outputPath": "C:\\Projects\\abp\\Vib.Oss\\OSS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

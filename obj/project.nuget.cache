@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t9x8epq2QAgs/5GIfyJP5YVu5zOwW6GzDPYvCy18HeiCbDAXqFuuzfOz0zcNx/TZDqH/tzqzhdYUMdpjQqku5w==",
+  "dgSpecHash": "kXMHE1xAbzXvXk38QWW4FJVJj00qUXOpl9qvBE4KIIEviMoYumN5pnkInX7em9fMvBcxV0E9spaHAxOmkrpoQw==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\abp\\Vib.Oss\\Vib.Oss.csproj",
+  "projectFilePath": "C:\\Projects\\abp\\Vib.Oss\\OSS\\Vib.Oss.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\TINLAPTOP\\.nuget\\packages\\autofac\\6.4.0\\autofac.6.4.0.nupkg.sha512",
     "C:\\Users\\TINLAPTOP\\.nuget\\packages\\autofac.extensions.dependencyinjection\\8.0.0\\autofac.extensions.dependencyinjection.8.0.0.nupkg.sha512",
